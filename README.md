@@ -1,6 +1,6 @@
-# Access Request for ibnas/zkp_validation Repository  
+# Access Request for ibnas/zkp_validation_main Repository  
 
-The repository ibnas/zkp_validation is private. If you would like access, please follow these steps:  
+The repository ibnas/zkp_validation_main is private. If you would like access, please follow these steps:  
 
 1. **Create an Issue**:  
    - Click on the "Issues" tab and create a new issue.  
@@ -17,6 +17,7 @@ The repository ibnas/zkp_validation is private. If you would like access, please
    ```  
 
 3. **Wait for Approval**:   
-   - I will review your request and notify you via Issue comments once your access is granted.  
+   - I will review your request and notify you via Issue comments once your access is granted.
+   - You can access the repository [here](https://github.com/ibnas/zkp_validation) once notified.  
 
 Thank you for your interest!  
