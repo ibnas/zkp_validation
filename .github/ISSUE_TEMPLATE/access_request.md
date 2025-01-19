@@ -1,6 +1,7 @@
 ---  
 name: Access Request  
 description: Request access to the private repository  
+about: This is a request issue template for the private reository @ibnas/zkp_validation
 title: "[Access Request] {@ibnas/zkp_validation}"  
 labels: access request  
 ---  
